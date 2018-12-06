@@ -9,13 +9,9 @@ Here follow means a full match, such that there is a match between a letter in p
 Examples:
 
 pattern = "abba", str = "dog cat cat dog" should return true.
-
 pattern = "abba", str = "dog cat cat fish" should return false.
-
 pattern = "aaaa", str = "dog cat cat dog" should return false.
-
 pattern = "abba", str = "dog dog dog dog" should return false.
-
 
 Notes:
 
