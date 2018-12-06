@@ -1,4 +1,4 @@
-# techtest_wordpatterns
+# Technical Test - Word Patterns
 A previously completed technical test
 
 Test Instruction:
