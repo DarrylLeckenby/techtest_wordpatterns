@@ -1,9 +1,7 @@
 # techtest_wordpatterns
 A previously completed technical test
 
-Instructions:
-
-Given a pattern and a string str, find if str follows the same pattern.
+Test Instruction: Given a pattern and a string str, find if str follows the same pattern.
 Here follow means a full match, such that there is a match between a letter in pattern and a non-empty word in str.
 
 Examples:
